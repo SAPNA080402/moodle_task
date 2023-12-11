@@ -1,0 +1,9 @@
+.blue_back {
+    background-color: #e2f0fa;
+    background-attachment: scroll;
+    min-height: 100vh;
+}
+
+.learnImg {
+    width: 100px;
+}

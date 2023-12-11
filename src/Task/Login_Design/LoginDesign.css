@@ -1,0 +1,34 @@
+.linear-gra {
+    background-image: linear-gradient(to left, #b700c4, #8400cd);
+    background-attachment: scroll;
+    min-height: 100vh;
+}
+
+/* .whiteBack {
+    height: 98vh;
+} */
+
+.imgBackLogin {
+    border-radius: 100%;
+}
+
+/* .eInput,
+.passInput {
+    max-width: 250px;
+} */
+
+.inputBox {
+    /* max-width: 150px; */
+    /* border-radius: 100%; */
+    outline: none;
+}
+
+.loginBtn {
+    /* max-width: 270px;
+    min-width: 220px; */
+    background-color: #1fcc44;
+}
+
+.txtColor {
+    color: #1fcc44;
+}

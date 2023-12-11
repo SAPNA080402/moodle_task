@@ -1,0 +1,8 @@
+.FeedBackBackground {
+    background-image: linear-gradient(to right, #feebec, #f9bcbe);
+    height: 100vh;
+}
+
+.whiteFeedBack {
+    height: 60vh;
+}

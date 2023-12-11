@@ -1,0 +1,8 @@
+.bgimg {
+    background-image: url(./congrats-card-bg.png);
+    height: 100vh;
+}
+
+.innerDiv {
+    background-color: #cffafe;
+}

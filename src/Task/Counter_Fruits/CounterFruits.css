@@ -1,0 +1,17 @@
+.fruitsBackGround {
+    height: 100vh;
+    background-color: #f9d775;
+}
+
+.whiteDiv {
+    height: 80vh;
+}
+
+.image1 {
+    height: 45vh;
+    width: 25vw;
+}
+
+.AddButton {
+    border: none;
+}

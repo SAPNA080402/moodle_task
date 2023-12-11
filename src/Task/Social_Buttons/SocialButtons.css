@@ -1,0 +1,22 @@
+.body {
+    background-image: url('./Sublime_purple_night_sky_\(Unsplash\).jpg');
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 94vh;
+}
+
+.socialH1 {
+    font-size: 90px;
+    font-family: fantasy;
+    color: white;
+}
+
+.like {
+    background-color: #eab309;
+}
+
+.share {
+    background-color: #224ed8;
+}
