@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/moodle_task/static/css/main.dcea76dd.css",
+    "main.js": "/moodle_task/static/js/main.e76c7597.js",
+    "static/js/787.acb806d0.chunk.js": "/moodle_task/static/js/787.acb806d0.chunk.js",
+    "static/media/Sublime_purple_night_sky_(Unsplash).jpg": "/moodle_task/static/media/Sublime_purple_night_sky_(Unsplash).7043b35eeef5f74d171a.jpg",
+    "static/media/banana-img.png": "/moodle_task/static/media/banana-img.9ce4998af94ef748c63f.png",
+    "static/media/congrats-card-bg.png": "/moodle_task/static/media/congrats-card-bg.086e717dec80e5b2cfb9.png",
+    "static/media/csk-img.png": "/moodle_task/static/media/csk-img.201e8dbba493b425bfc6.png",
+    "static/media/rcb-img.png": "/moodle_task/static/media/rcb-img.5b8744b9e4d3d3a8b8f8.png",
+    "static/media/mango-img.png": "/moodle_task/static/media/mango-img.aa30a84bc59f435b3051.png",
+    "static/media/lap.png": "/moodle_task/static/media/lap.87801c2bc7b3412eb49e.png",
+    "static/media/congrats-card-profile-img.png": "/moodle_task/static/media/congrats-card-profile-img.902a66219c647b49cd2c.png",
+    "static/media/logo.svg": "/moodle_task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/moodle_task/index.html",
+    "main.dcea76dd.css.map": "/moodle_task/static/css/main.dcea76dd.css.map",
+    "main.e76c7597.js.map": "/moodle_task/static/js/main.e76c7597.js.map",
+    "787.acb806d0.chunk.js.map": "/moodle_task/static/js/787.acb806d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcea76dd.css",
+    "static/js/main.e76c7597.js"
+  ]
+}
